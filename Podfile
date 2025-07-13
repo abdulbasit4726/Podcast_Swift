@@ -7,6 +7,7 @@ target 'Podcast_Swift' do
 
   # Pods for Podcast_Swift
 pod 'Alamofire'
+pod 'SDWebImage'
 
   target 'Podcast_SwiftTests' do
     inherit! :search_paths
